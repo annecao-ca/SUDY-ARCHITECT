@@ -1,0 +1,1 @@
+export const AVATAR_BASE64 = 'https://i.postimg.cc/TLcGm5xQ/ead6e49a-0986-489f-9b13-5568d0357f52.jpg';
